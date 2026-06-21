@@ -71,8 +71,10 @@ Created interactive dashboards for business insights and data visualization.
 
 ---
 
-### Connect with Me
 
-LinkedIn: [www.linkedin.com/in/sai-sireesha-tripurari](http://www.linkedin.com/in/sai-sireesha-tripurari)
 
-GitHub: github.com/SaiSireesha715
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/sai-sireesha-tripurari-0274ba24b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sai sireesha tripurari" height="30" width="40" /></a>
+<a href="https://instagram.com/sireesha_715" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sireesha_715" height="30" width="40" /></a>
+</p>
